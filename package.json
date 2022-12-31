@@ -20,7 +20,7 @@
   "devDependencies": {
     "markdown-it-include": "^1.0.0",
     "markdown-it-plantuml": "^1.3.0",
-    "vuepress": "^0.14.8"
+    "vuepress": "^1.9.7"
   },
   "dependencies": {
     "redoc": "^2.0.0-alpha.41"
